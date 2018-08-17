@@ -1,0 +1,29 @@
+{
+    "name": "kylekatarnls/laravel-carbon-2",
+    "type": "library",
+    "description": "Carbon 2 adapter for Laravel",
+    "keywords": [
+        "Carbon",
+        "Laravel"
+    ],
+    "homepage": "http://carbon.nesbot.com",
+    "support": {
+        "issues": "https://github.com/kylekatarnls/laravel-carbon-2/issues",
+        "source": "https://github.com/kylekatarnls/laravel-carbon-2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kylekatarnls",
+            "homepage": "https://github.com/kylekatarnls"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/Carbon.php"
+        ]
+    },
+    "require": {
+        "nesbot/carbon": "2.0.0-beta.2 as 1.25.0"
+    }
+}
