@@ -24,6 +24,6 @@
         ]
     },
     "require": {
-        "nesbot/carbon": "2.0.0-beta.2 as 1.25.0"
+        "nesbot/carbon": "^2.0.0-beta.2"
     }
 }
