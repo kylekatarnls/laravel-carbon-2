@@ -10,7 +10,7 @@ To install Carbon 2 in your Laravel project, add the following dependencies to y
   "require": {
     ...
     "kylekatarnls/laravel-carbon-2": "^1.0.0",
-    "nesbot/carbon": "2.0.0-beta.2 as 1.25.0"
+    "nesbot/carbon": "2.27.0 as 1.39.0"
   }
   ...
 }
